@@ -1,0 +1,40 @@
+{
+    "dimensions": [
+        "product",
+        "data1"
+    ],
+    "source": [
+        {
+            "product": "冷水机组",
+            "data1": 808.1
+        },
+        {
+            "product": "",
+            "data1": 5
+        },
+        {
+            "product": "冷水泵",
+            "data1": 133.1
+        },
+        {
+            "product": "",
+            "data1": 5
+        },
+        {
+            "product": "冷却水泵",
+            "data1": 111.3
+        },
+        {
+            "product": "",
+            "data1": 5
+        },
+        {
+            "product": "冷却塔",
+            "data1": 44.5
+        },
+        {
+            "product": "",
+            "data1": 5
+        }
+    ]
+}
